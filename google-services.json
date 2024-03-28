@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80974884525",
+    "project_id": "wordle-game-a825b",
+    "storage_bucket": "wordle-game-a825b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80974884525:android:cb715e992185fa84b2a024",
+        "android_client_info": {
+          "package_name": "com.ahmad.wordleReactNative2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmidvLoaPe3DYoEcFopTTMiw6kAcHP7G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
